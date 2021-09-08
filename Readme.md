@@ -1,6 +1,6 @@
 # Letme Ask
 
-- 👀 Description: Projeto desenvolvido na Next Level Week da Rocketseat com React
+- 👀 Description: Project developed at Rocketseat's Next Level Week with React
 - 😎 Curiosity: First project with React, Typescript and Firebase
 - ⌛ Developing: Project completed
 
